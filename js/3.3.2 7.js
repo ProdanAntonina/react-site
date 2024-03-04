@@ -6,3 +6,7 @@ if (!(age >= 14 && age <= 90)) {
 if (age < 14 || age > 90) {
     console.log(`2 version`);
   }
+//Verifică dacă vârsta este mai mică decât 14 sau mai mare decât 90.
+//Dacă condiția este adevărată, se afișează mesajul "1 version".
+//Verifică dacă vârsta este mai mică decât 14 sau mai mare decât 90.
+//Dacă condiția este adevărată, se afișează mesajul "2 version".

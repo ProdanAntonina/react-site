@@ -18,4 +18,9 @@ function sumInputNumbers() {
 
 let result = sumInputNumbers();
 console.log(result);
-  
+  //Acest cod JavaScript definește o funcție numită sumInputNumbers() care solicită utilizatorului să introducă numere până când introducerea este invalidă sau anulată. 
+  //Apoi, funcția calculează și returnează suma numerelor introduse. Suma este afișată în consolă.
+
+
+
+

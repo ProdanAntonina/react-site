@@ -15,3 +15,12 @@ console.log(styles); // Classic, Rock-n-roll
 
 styles.unshift(`Rap`, `Reggae`);
 console.log(styles); // Rap, Reggae, Classic, Rock-n-roll
+
+//Acest cod JavaScript demonstrează manipularea unui array numit `styles` folosind mai multe metode:
+
+//Se afișează array-ul inițial `styles`.
+//Se adaugă un nou element, `Rock-n-roll`, la sfârșitul array-ului.
+// Se înlocuiește elementul din mijloc cu `Classic`.
+// Se elimină primul element din array și se afișează.
+//Se adaugă două elemente la începutul array-ului: `Rap` și `Reggae`.
+

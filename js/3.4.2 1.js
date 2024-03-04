@@ -27,4 +27,5 @@ arr.forEach((element) => {
 arr.map((element) => {
     console.log(element);
 });
-  
+  //Acest cod JavaScript afișează fiecare element al unui array folosind diferite metode de iterare: for loop, while loop, for...in loop, for...of loop, forEach() și map(). 
+  //Fiecare metodă este folosită pentru a itera prin array și a afișa elementele în consolă.

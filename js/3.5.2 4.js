@@ -11,4 +11,10 @@ user2.age = 321;
   
 console.log(user1);
 console.log(user2);
-  
+  //Acest cod demonstrează crearea unei copii independente a unui obiect user1 în user2 folosind spread operatorul (...). 
+  //Apoi, proprietățile obiectului user2 sunt actualizate. Cele două obiecte sunt afișate în consolă pentru a evidenția diferența dintre ele.
+
+
+
+
+

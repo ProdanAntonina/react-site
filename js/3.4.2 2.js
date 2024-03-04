@@ -58,7 +58,17 @@ function printGreaterThanAverage(arr2) {
   
 printGreaterThanAverage(arr2);
 // Output: [30, 100, 100, 55]
-  
+  //Acest cod JavaScript efectuează mai multe operațiuni pe un array dat `arr2`:
+
+//Funcția `printLessThanFive` afișează toate elementele din `arr2` care sunt mai mici decât 5.
+
+//Funcția `findMinMaxPositions` găsește pozițiile primului element minim și a tuturor elementelor maxime în `arr2`.
+
+// Funcția `sortDescending` sortează elementele din `arr2` în ordine descrescătoare.
+
+//Funcția `printGreaterThanAverage` afișează toate elementele din `arr2` care sunt mai mari decât media lor.
+
+//Fiecare funcție primește array-ul `arr2` ca argument și afișează rezultatul în consolă.
 
   
 

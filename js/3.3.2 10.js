@@ -5,3 +5,6 @@ for (let j = 0; j < number; j++) {
       console.log(j);
     }
   }
+  //Acest cod JavaScript primește un număr de la utilizator și încearcă să afișeze toți divizorii acestuia în consolă. 
+  //Totuși, are o eroare logică care va genera o excepție de divizare la zero. 
+  //Pentru a corecta aceasta, bucla trebuie să înceapă de la 1, iar condiția if trebuie să verifice dacă numărul este divizibil.
