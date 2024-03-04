@@ -2,7 +2,7 @@ console.log(`3.3.2 4`);
 function ucFirst(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
-console.log(ucFirst(`goner`));
+console.log(ucFirst(`admin`));
 
 // În acest exemplu, funcția ucFirst ia un șir str ca argument. 
 //Metoda charAt este folosită pentru a obține primul caracter al șirului, 
